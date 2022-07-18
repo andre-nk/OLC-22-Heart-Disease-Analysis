@@ -1,0 +1,24 @@
+{
+  "grammarly.selectors": [
+    {
+      "language": "markdown",
+      "scheme": "vscode-notebook-cell",
+      "pattern": "/Users/andreasnotokusumo/Documents/Data Science Projects/OLC-22-Heart-Disease-Analysis/olc-22-heart-disease-analysis.ipynb"
+    },
+    {
+      "language": "markdown",
+      "scheme": "vscode-notebook-cell",
+      "pattern": "/Users/andreasnotokusumo/Documents/Data Science Projects/OLC-22-Heart-Disease-Analysis/olc-22-heart-disease-analysis.ipynb"
+    },
+    {
+      "language": "markdown",
+      "scheme": "vscode-notebook-cell",
+      "pattern": "/Users/andreasnotokusumo/Documents/Data Science Projects/OLC-22-Heart-Disease-Analysis/olc-22-heart-disease-analysis.ipynb"
+    },
+    {
+      "language": "markdown",
+      "scheme": "vscode-notebook-cell",
+      "pattern": "/Users/andreasnotokusumo/Documents/Data Science Projects/OLC-22-Heart-Disease-Analysis/olc-22-heart-disease-analysis.ipynb"
+    }
+  ]
+}
